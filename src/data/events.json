@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "Team alignment",
+        "date": "2020-01-03",
+        "time": "11:00",
+        "duration": "30"
+    },
+    {
+        "id": 2,
+        "title": "Lunch with Steven",
+        "date": "2020-01-05",
+        "time": "14:00",
+        "duration": "60"
+    }
+]
