@@ -32,7 +32,7 @@ Check out the live version: [Click Here](https://surveysparrow-project.netlify.a
 ## 🧩 Getting Started
 
 ```bash
-git clone https://github.com/your-username/calendar-clone.git
+git clone https://github.com/Kavinkumar-04/SurveySparrow-Calendar
 ```
 
 ```bash
