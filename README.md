@@ -31,12 +31,14 @@ Check out the live version: [Click Here](https://surveysparrow-project.netlify.a
 
 ## 🧩 Getting Started
 
-### 1. Clone the repo
-
 ```bash
 git clone https://github.com/your-username/calendar-clone.git
+```
+
+```bash
 cd calendar-clone
 ```
+
 ```bash
 npm install --legacy-peer-deps
 ```
