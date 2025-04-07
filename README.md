@@ -46,3 +46,7 @@ npm install --legacy-peer-deps
 ```baash
 npm install
 ```
+
+```bash
+npm start
+```
